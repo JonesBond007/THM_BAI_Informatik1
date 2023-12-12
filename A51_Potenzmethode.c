@@ -41,7 +41,7 @@ int main() {
 		}
 		printf("\n");
 		printf("\n");
-		Teiler = 128; //Teiler muss wieder auf 128 gesetzt werden, um das Programm nochmals auszuführen
+		Teiler = 128; //Teiler muss wieder auf 128 gesetzt werden, um das Programm nochmals auszufÃ¼hren
 	}
 	return 0;
 }
