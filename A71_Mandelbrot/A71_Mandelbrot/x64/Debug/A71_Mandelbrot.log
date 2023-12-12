@@ -1,6 +1,0 @@
-﻿  main.c
-C:\Users\Jonas\Documents\Multimedia\Informatik\Programme\MS Visual Studio 2022\A71_Mandelbrot\main.c(38,22): warning C4244: "Funktion": Konvertierung von "double" in "int", möglicher Datenverlust
-C:\Users\Jonas\Documents\Multimedia\Informatik\Programme\MS Visual Studio 2022\A71_Mandelbrot\main.c(38,32): warning C4244: "Funktion": Konvertierung von "double" in "int", möglicher Datenverlust
-C:\Users\Jonas\Documents\Multimedia\Informatik\Programme\MS Visual Studio 2022\A71_Mandelbrot\main.c(38,44): warning C4244: "Funktion": Konvertierung von "double" in "int", möglicher Datenverlust
-C:\Users\Jonas\Documents\Multimedia\Informatik\Programme\MS Visual Studio 2022\A71_Mandelbrot\main.c(59): warning C4715: "countLoops": Nicht alle Codepfade geben einen Wert zurück.
-  A71_Mandelbrot.vcxproj -> C:\Users\Jonas\Documents\Multimedia\Informatik\Programme\MS Visual Studio 2022\A71_Mandelbrot\x64\Debug\A71_Mandelbrot.exe
