@@ -31,7 +31,7 @@ int length = 0;
 
 int main() {
 	int input = 0;
-	int n = 1; //Prüfvariable, ob Messwerte eingegeben worden sind
+	int n = 1; //PrÃ¼fvariable, ob Messwerte eingegeben worden sind
 	double meV, min, max, sDev, var;
 
 	for (;;) {
@@ -63,7 +63,7 @@ int main() {
 			break;
 
 		case 2:
-			if (n == 0) { // prüfen, ob Messerwerte eingegeben worden sind --> wenn keine eingeben worden sind, dann ist n = 1
+			if (n == 0) { // prÃ¼fen, ob Messerwerte eingegeben worden sind --> wenn keine eingeben worden sind, dann ist n = 1
 				meV = mean();
 				printf("Mittelwert = %lf\n\n", meV);
 			}
