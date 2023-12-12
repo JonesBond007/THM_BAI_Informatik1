@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Jonas\Documents\Multimedia\Informatik\Programme\MS Visual Studio 2022\A62_Lissajous_Figuren\main.c(22,22): warning C4244: "Funktion": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Jonas\Documents\Multimedia\Informatik\Programme\MS Visual Studio 2022\A62_Lissajous_Figuren\main.c(22,25): warning C4244: "Funktion": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Jonas\Documents\Multimedia\Informatik\Programme\MS Visual Studio 2022\A62_Lissajous_Figuren\main.c(23,10): warning C4244: "Funktion": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Jonas\Documents\Multimedia\Informatik\Programme\MS Visual Studio 2022\A62_Lissajous_Figuren\main.c(23,13): warning C4244: "Funktion": Konvertierung von "double" in "int", möglicher Datenverlust
+  A62_Lissajous_Figuren.vcxproj -> C:\Users\Jonas\Documents\Multimedia\Informatik\Programme\MS Visual Studio 2022\A62_Lissajous_Figuren\x64\Debug\A62_Lissajous_Figuren.exe
