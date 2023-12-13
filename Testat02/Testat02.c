@@ -17,7 +17,6 @@ int main() {
 
 	if (x <= 0) {
 		printf("x muss > 0 sein!\n");
-		//return 0;
 	}
 	else {
 		double y = x / 2;
