@@ -1,4 +1,4 @@
-/*JONAS FIEGERT 2023-11-29*/
+/*2023-11-29*/
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
