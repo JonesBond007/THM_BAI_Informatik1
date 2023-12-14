@@ -1,7 +1,7 @@
 /*
 	Project:	A53_Pascalsches_Dreieck
 	File:		main.c
-	Author:		Jonas Fiegert
+	Author:		JonesBond007
 	Date:		2023-11-29
 */
 
