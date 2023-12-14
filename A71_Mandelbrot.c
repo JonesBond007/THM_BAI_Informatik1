@@ -1,7 +1,7 @@
 /*
 	Project:	A71_Mandelbrot
 	File:		main.c
-	Author:		Jonas Fiegert
+	Author:		JonesBond007
 	Date:		2023-12-05
 */
 
