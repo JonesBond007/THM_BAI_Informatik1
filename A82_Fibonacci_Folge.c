@@ -2,7 +2,7 @@
 	Project:	A82_Fibonacci_Folge
 	File:		main.c
 	Author:		JonesBond007
-	Date:		2023-12-13
+	Date:		2023-12-15
 */
 
 #define _CRT_SECURE_NO_WARNINGS
