@@ -1,7 +1,7 @@
 /*
 	Project:	A101_Rechner
-	File:		main.c
-	Author:		Jonas Fiegert
+	File:		A101_Rechner.c
+	Author:		JonesBond007
 	Date:		2024-01-17
 */
 
@@ -16,7 +16,7 @@
 
 int main(int argc, char* argv[]) {
 	
-	//Überprüfen, ob genügend Argumente übergeben worden sind
+	//ÃœberprÃ¼fen, ob genÃ¼gend Argumente Ã¼bergeben worden sind
 	if (argc < 4) {
 		printf("ERROR: Fehlerhafte Eingabe.\n");
 		return 1;
@@ -32,9 +32,9 @@ int main(int argc, char* argv[]) {
 	//Einlesen der Werte
 	/*
 		Hinweis zur Funktion sscanf:
-		sscanf wandelt i.d.F. die Eingabewerte in Fließkommazahlen um.
-		Dabei wird die Anzahl der erfolgreich übereinstimmenden Werte zurückgegeben.
-		Es wird daher geprüft, ob jeweils genau 1 Wert erfolgreich eingelesen wurde.
+		sscanf wandelt i.d.F. die Eingabewerte in FlieÃŸkommazahlen um.
+		Dabei wird die Anzahl der erfolgreich Ã¼bereinstimmenden Werte zurÃ¼ckgegeben.
+		Es wird daher geprÃ¼ft, ob jeweils genau 1 Wert erfolgreich eingelesen wurde.
 	*/
 	double val1, val2;
 	if (sscanf(argv[1], "%lf", &val1) != 1 || sscanf(argv[3], "%lf", &val2) != 1) {
@@ -60,7 +60,7 @@ int main(int argc, char* argv[]) {
 			break;
 
 		case '/':
-			if (val2 == 0) { // Überprüfen ob Division durch 0
+			if (val2 == 0) { // ÃœberprÃ¼fen ob Division durch 0
 				printf("ERROR: Mathematischer Fehler (Divisoion durch 0).\n");
 				return 1;
 			}
