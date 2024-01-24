@@ -1,6 +1,6 @@
 /*
-	Das Programm soll maximal 100 Spannungswerte einlesen und anschlieﬂend
-	den Mittelwert berechnen und ausgeben. Der Quelltext enth‰lt jedoch 6 Fehler.
+	Das Programm soll maximal 100 Spannungswerte einlesen und anschlie√üend
+	den Mittelwert berechnen und ausgeben. Der Quelltext enth√§lt jedoch 6 Fehler.
 	Aufgabenstellung:
 	Korrigieren Sie die Fehler und laden Sie den korrigierten Quelltext
 	in Moodle hoch!
